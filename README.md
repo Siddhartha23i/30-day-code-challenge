@@ -28,7 +28,7 @@ The goal is to build the habit of showing up — every single day.
 | Day | Date | LeetCode Problem | Concept Studied | Done? |
 |-----|------|-----------------|-----------------|-------|
 | 1   |  01-03-2026    |      344        |   Quantitative Reasoning              | ⬜    |
-| 2   |     |                 |                 | ⬜  02-03-2026  |342
+| 2   |   02-03-2026  |  342               |   Quantitative Reasoning            | ⬜    |
 | 3   |      |                 |                 | ⬜    |
 | 4   |      |                 |                 | ⬜    |
 | 5   |      |                 |                 | ⬜    |
