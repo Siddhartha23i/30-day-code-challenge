@@ -33,7 +33,7 @@ The goal is to build the habit of showing up — every single day.
 | 4   |    04-03-2026  |       50          |        Quantitative Reasoning-Percentages         | ⬜    |
 | 5   |  05-03-2026    |  7               |      Quantitative Reasoning          | ⬜    |
 | 6   |   06-03-2026   |     367            |     Quantitative reasoning           | ⬜    |
-| 7   |      |                 |                 | ⬜    |
+| 7   |  07-03-2026    |        58         |          Quantitative Aptitude - Percentages        | ⬜    |
 | 8   |      |                 |                 | ⬜    |
 | 9   |      |                 |                 | ⬜    |
 | 10  |      |                 |                 | ⬜    |
