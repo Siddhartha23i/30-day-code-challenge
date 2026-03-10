@@ -36,7 +36,7 @@ The goal is to build the habit of showing up — every single day.
 | 7   |  07-03-2026    |        58         |          Quantitative Aptitude - Percentages        | ⬜    |
 | 8   | 08-03-2026     |   217              |     Quantitative Aptitude           | ⬜    |
 | 9   |   09-03-2026   |      242           |    Quantitative Aptitude            | ⬜    |
-| 10  |      |                 |                 | ⬜    |
+| 10  |   10-03-2026  |       231          |          Quantitative Aptitude , SQL       | ⬜    |
 | 11  |      |                 |                 | ⬜    |
 | 12  |      |                 |                 | ⬜    |
 | 13  |      |                 |                 | ⬜    |
