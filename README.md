@@ -38,7 +38,7 @@ The goal is to build the habit of showing up — every single day.
 | 9   |   09-03-2026   |      242           |    Quantitative Aptitude            | ⬜    |
 | 10  |   10-03-2026  |       231          |          Quantitative Aptitude , SQL       | ⬜    |
 | 11  |   11-03-2026   |  136               |  SQL,RAG Revision               | ⬜    |
-| 12  |      |                 |                 | ⬜    |
+| 12  |  12-03-2026    |    389             |    SQL             | ⬜    |
 | 13  |      |                 |                 | ⬜    |
 | 14  |      |                 |                 | ⬜    |
 | 15  |      |                 |                 | ⬜    |
