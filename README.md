@@ -40,7 +40,7 @@ The goal is to build the habit of showing up — every single day.
 | 11  |   11-03-2026   |  136               |  SQL,RAG Revision               | ⬜    |
 | 12  |  12-03-2026    |    389             |    SQL             | ⬜    |
 | 13  |   13-03-2026   |   1672              |        SQL         | ⬜    |
-| 14  |      |                 |                 | ⬜    |
+| 14  |  14-03-2026    |      1929           |     SQL            | ⬜    |
 | 15  |      |                 |                 | ⬜    |
 | 16  |      |                 |                 | ⬜    |
 | 17  |      |                 |                 | ⬜    |
